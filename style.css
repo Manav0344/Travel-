@@ -173,6 +173,7 @@ section {
 
 .raw-image img:hover {
     transform: scale(1.2);
+    cursor: pointer;
 }
 
 .image-content h4 {
@@ -229,6 +230,7 @@ section {
 .box:hover img {
     filter: brightness(90%) hue-rotate(50deg);
     transform: scale(1.05);
+    cursor: pointer;
 }
 
 .box h5,
