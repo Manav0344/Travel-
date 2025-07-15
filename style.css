@@ -270,7 +270,7 @@ section {
 
 .culture-text h2 {
     font-size: var(--h2-font);
-    margin: 20px 0;
+    margin: 20px 10px;
     font-weight: 800;
 }
 
